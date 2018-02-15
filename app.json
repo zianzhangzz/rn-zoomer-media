@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
+   "name": "Zoomer Media",
+   "icon": "./res/logo.ico",
+   "version": "1.0.0",
+   "slug": "Media",
+   "sdkVersion": "23.0.0",
+   "ios": {
+     "bundleIdentifier": "com.zianzhang.zoomer"
+   },
+   "android": {
+     "package": "com.zianzhang.zoomer"
+   }
   }
 }
